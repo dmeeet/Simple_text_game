@@ -1,0 +1,1 @@
+enum RoomType { MONSTER, EMPTY, HEALTH_WATER }
